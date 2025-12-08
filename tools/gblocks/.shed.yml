@@ -2,7 +2,7 @@
 categories:
 - Sequence Analysis
 description: Gblocks
-homepage_url: https://www.biologiaevolutiva.org/jcastresana/Gblocks/Gblocks_documentation.html
+homepage_url: https://molevol-ibe.csic.es/Gblocks.html
 name: gblocks
 owner: earlhaminst
 long_description: Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis.
